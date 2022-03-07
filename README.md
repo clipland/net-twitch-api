@@ -36,7 +36,7 @@ from command-line (latest changes, if any):
 
     wget https://github.com/clipland/net-twitch-api/archive/master.tar.gz
     tar xvf master.tar.gz
-    cd fuse-taglayer-master
+    cd net-twitch-api-main
     perl Makefile.PL
     make
     make test
