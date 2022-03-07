@@ -8,7 +8,7 @@ use base 'WebService::Simple';
 
 use JSON ();
 
-our $VERSION   = '0.10';
+our $VERSION   = '0.11';
 
 # overide our base modules WebService::Simple _agent() method with our own:
 sub _agent { "libwww-perl/$LWP::VERSION+WebService::Simple/". $WebService::Simple::VERSION ."+". __PACKAGE__ .'/'.$VERSION }

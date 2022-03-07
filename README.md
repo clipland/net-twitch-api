@@ -1,4 +1,4 @@
-Net::Twitch::API
+[Net::Twitch::API](https://metacpan.org/pod/Net::Twitch::API)
 ================
 
 Helper methods for Twitch's "new" helix API
@@ -23,8 +23,8 @@ Please note:
 
 This here is only a short github placeholder README. More information about
 how to use the mounting script _taglayer_ and the _Fuse::TagLayer_ module can be found
-in the POD embedded in the source code. So, please hop over to _cpan_ for canonical the
-[documentation](http://search.cpan.org/perldoc?Net%3A%3ATwitch%3A%3AAPI).
+in the POD embedded in the source code. So, please hop over to _cpan_ for the canonical
+[documentation](https://metacpan.org/pod/Net::Twitch::API).
 
 ## INSTALLATION
 

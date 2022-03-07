@@ -10,7 +10,8 @@ WriteMakefile(
 	VERSION_FROM	=> 'lib/Net/Twitch/API.pm',
 	LICENSE	=> 'artistic_2',
 	PREREQ_PM	=> {
-		"Path::Tiny"		=> 0,
+		"JSON"			=> 0,
+		"WebService::Simple"	=> 0,
 	},
 	META_MERGE	=> {
 		'meta-spec'	=> { version => 2 },
@@ -20,6 +21,7 @@ WriteMakefile(
 				web => 'https://github.com/clipland/net-twitch-api',
 				type=> 'git',
 			},
+			bugtracker => 'https://github.com/clipland/net-twitch-api/issues'
 		},
 	},
 	dist => {
