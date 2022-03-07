@@ -1,0 +1,6 @@
+MANIFEST
+LICENSE
+README
+Makefile.PL
+lib/Net/Twitch/API.pm
+t/001_load.t
