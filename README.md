@@ -21,9 +21,8 @@ This module provides methods and helper wrappers to work with what Twitch "new" 
 
 Please note:
 
-This here is only a short github placeholder README. More information about
-how to use the mounting script _taglayer_ and the _Fuse::TagLayer_ module can be found
-in the POD embedded in the source code. So, please hop over to _cpan_ for the canonical
+This here is only a short github placeholder README. More information about this module can be found in the POD
+embedded in source code. So, please hop over to _cpan_ for the canonical
 [documentation](https://metacpan.org/pod/Net::Twitch::API).
 
 ## INSTALLATION
